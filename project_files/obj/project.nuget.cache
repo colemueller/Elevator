@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PRDejgc6SGgJ9FGk43UzSWZ1pggXyjv9iGqAL1y8tmxRIDZtSqSYXDg1Gama65kuCR0gCIEkj2ibtTY2zMqWlA==",
+  "dgSpecHash": "5kvmx3+5Gfzt5HUhCfc+NFO1RKTfCEXOHGiZA4QvzWtgzqHB8kIkqYrOyLh6YzBAIeUytZwYZnLFIvIbrUeDTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cole\\Desktop\\MyStuff\\MyGames\\Elevator\\project_files\\Elevator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Cole\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.9\\microsoft.netcore.app.runtime.win-x64.7.0.9.nupkg.sha512",
+    "C:\\Users\\Cole\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.9.nupkg.sha512",
+    "C:\\Users\\Cole\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.9\\microsoft.aspnetcore.app.runtime.win-x64.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
