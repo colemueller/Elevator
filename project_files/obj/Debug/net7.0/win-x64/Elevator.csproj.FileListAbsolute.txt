@@ -1,0 +1,15 @@
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\bin\Debug\net7.0\win-x64\Elevator.exe
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\bin\Debug\net7.0\win-x64\Elevator.deps.json
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\bin\Debug\net7.0\win-x64\Elevator.runtimeconfig.json
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\bin\Debug\net7.0\win-x64\Elevator.dll
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\bin\Debug\net7.0\win-x64\Elevator.pdb
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.csproj.AssemblyReference.cache
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.AssemblyInfoInputs.cache
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.AssemblyInfo.cs
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.dll
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\refint\Elevator.dll
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.pdb
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\Elevator.genruntimeconfig.cache
+C:\Users\Cole\Desktop\MyStuff\MyGames\Elevator\obj\Debug\net7.0\win-x64\ref\Elevator.dll
